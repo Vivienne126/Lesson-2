@@ -1,11 +1,12 @@
-#print a sentense
-print("Hello i am Vivienne")
+# Birthdates in Variables
+x="18 August 2014"
+print(x)
+y="18 November 1992"
+print(y)
+a="15 February 2022"
+print(a)
+b="5 Aprill 1995"
+print(b)
+c="15 July 2013"
+print(c)
 
-# print a number
-print(4)
-
-#Next line after print
-print("Welcome \n Vivienne")
-
-# print multiple statements or arguments
-print("Welcome", 4)
